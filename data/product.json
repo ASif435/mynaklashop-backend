@@ -1,0 +1,47 @@
+[
+    {
+        "name":"Mobile",
+        "price":"45.55",
+        "description":"lorem24",
+        "ratings":4.5,
+        "images":[{
+            "public_id":"hello",
+            "url":"no url"
+        }],
+        "category":"Mobile",
+        "seller":"amazon",
+        "stock":0,
+        "numOfReviews":2,
+        "reviews":[]
+    },
+    {
+        "name":"Mobile",
+        "price":"43.55",
+        "description":"lorem24",
+        "ratings":4.5,
+        "images":[{
+            "public_id":"hello",
+            "url":"no url"
+        }],
+        "category":"Mobile",
+        "seller":"amazon",
+        "stock":0,
+        "numOfReviews":2,
+        "reviews":[]
+    },
+    {
+        "name":"Mobile",
+        "price":"435.55",
+        "description":"lorem24",
+        "ratings":4.5,
+        "images":[{
+            "public_id":"hello",
+            "url":"no url"
+        }],
+        "category":"Food",
+        "seller":"amazon",
+        "stock":0,
+        "numOfReviews":2,
+        "reviews":[]
+    }
+]
